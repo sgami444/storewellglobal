@@ -50,7 +50,6 @@ a:focus-visible { outline: 2px solid var(--espresso); outline-offset: 6px; }
 }
 .contact-bar a { text-decoration: none; padding: 8px 0; }
 .contact-bar a:hover { color: var(--espresso); text-decoration: underline; }
-.contact-name { color: var(--espresso); }
 main { width: 100%; max-width: 950px; margin: auto; padding: 48px 0 65px; text-align: center; }
 .status { display: inline-flex; align-items: center; gap: 10px; color: var(--copper); text-transform: uppercase; font-size: 11px; letter-spacing: .24em; }
 .status span { width: 5px; height: 5px; border-radius: 50%; background: var(--copper); }
@@ -69,8 +68,6 @@ h1 { font-family: Georgia, 'Times New Roman', serif; font-size: clamp(42px, 6.5v
 .button { display: inline-flex; justify-content: space-between; align-items: center; gap: 38px; min-height: 46px; padding: 13px 21px; font-size: 12px; text-decoration: none; border: 1px solid var(--copper); transition: background-color .15s, color .15s; }
 .button-primary { background: var(--copper); color: #fffaf3; }
 .button-primary:hover { background: #794329; border-color: #794329; }
-.button-secondary { color: var(--copper); }
-.button-secondary:hover { background: #ead7c0; }
 footer { text-align: center; padding: 0 0 31px; }
 .domain { font-size: 12px; letter-spacing: .12em; margin: 0 0 12px; }
 .copyright { font-size: 10px; color: var(--muted); letter-spacing: .025em; margin: 0; }

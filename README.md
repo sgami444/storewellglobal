@@ -14,7 +14,7 @@ Open http://127.0.0.1:4173. Stop the server with Ctrl+C.
 
 ## Update the page
 
-Edit `public/index.html` for copy and contact links, `public/styles.css` for colors and layout, and `public/favicon.svg` for the browser icon. Keep the brand, tagline, email, and phone consistent. Contact buttons open the visitor's email or phone application; this site does not collect or store submissions.
+Edit `public/index.html` for copy and contact links, `public/styles.css` for colors and layout, and `public/favicon.svg` for the browser icon. Keep the brand, tagline, and email consistent. Contact links open the visitor's email application; this site does not collect or store submissions. Email is currently the only published contact method.
 
 ## Publish with GitHub Pages
 
